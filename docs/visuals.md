@@ -93,6 +93,10 @@ PAVE is a retexture pack for all power armors in FNV and F3/TTW.
 - Update File - PAVE Compatiblity Plugins
   - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`
 
+Special Instructions:  There is an issue with the TTW added T-45d Power Armor Of Love.  One of the models name is misspelled causing the world object model to show as a missing object (a red exclemation mark model will show up in its place).  Renaming the model will fix the problem.  Here is now to fix it.
+
+- Double click on PAVE and select the Filetree tab. Now expand `meshes\armor\PAVE\T45PAPink`.  Rename `OutfitGO.nif` to `OutfitArmyGO.nif`.
+
 ### [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046)
 
 Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. We install this file very late in the guide to ensure it overwrites all the other mods in the guide and we can see all of its icons.
