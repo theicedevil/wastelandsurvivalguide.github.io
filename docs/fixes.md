@@ -115,6 +115,8 @@ Fixes flickering objects caused by lack of depth buffer precision.
 
 ### [Depth Resolve - NVSE](https://www.nexusmods.com/newvegas/mods/93991)
 
+(I recommend removing this mod for the time being. The mod causes game to freeze the load screen when transitioning into new interior cells, as many have repoted this issue in the mods bug page.  I was having this problem my self when trying to start a new game with TTW Quick Start and the load screen would completly freeze.  Disabling this mod resalved the issue entirely.)
+
 Improves performance when Depth of Field is used by resolving the depth buffer instead of rendering a new "fake" one. Also provides a crucial requirement for other effects.
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
